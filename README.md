@@ -1,6 +1,6 @@
 # DevOps NGINX Dmeo
 
-##Intro
+## Intro
 This project helps you install nginx on linux and then show a demo page
 
 ## Steps
@@ -10,5 +10,8 @@ sudo apt install nginx
 
 sudo systemctl start nginx
 sudo systemctl enable nginx
+
+web page is kept at /var/www/nginx
+
 
 
